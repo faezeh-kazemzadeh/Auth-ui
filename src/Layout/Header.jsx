@@ -44,7 +44,7 @@ const Header = () => {
           <NavbarBrand href="/">Logo</NavbarBrand>
           <NavbarToggle aria-controls="basic-navbar-nav" />
           <NavbarCollapse id="basic-navbar-nav">
-            <Nav className="me-auto">
+            <Nav className="ms-auto">
               <LinkContainer to="/">
                 <NavLink>Home</NavLink>
               </LinkContainer>
